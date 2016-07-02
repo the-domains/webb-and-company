@@ -1,9 +1,6 @@
-layout_spectrum: 0.8112446104642004
-typography_spectrum: 0.5524589994456619
 color:
-  brandStrength: 0.7967592037748545
-  lightness: 0.6073058904148638
   saturation: 0.8346822287421674
+  brandStrength: 0.7967592037748545
   rhythmicContrast: 0.2855764690320939
   brandColors:
     - '#FCFFF5'
@@ -11,4 +8,19 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+  lightness: 0.6073058904148638
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8112446104642004
+typography_spectrum: 0.5524589994456619
 name: Webb and Co.
