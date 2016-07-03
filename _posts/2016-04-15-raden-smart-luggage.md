@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-03T00:12:33.910Z'
+datePublished: '2016-07-03T00:12:34.734Z'
 sourcePath: _posts/2016-04-15-raden-smart-luggage.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/travel/raden-smart-luggage-travel-tech'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-03T00:12:33.573Z'
+dateModified: '2016-07-03T00:12:34.503Z'
 title: RADEN Smart
 app_links: []
 publisher:
@@ -34,7 +34,7 @@ description: >-
   available to purchase on the day of its launch.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
