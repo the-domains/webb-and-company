@@ -1,14 +1,14 @@
 color:
-  saturation: 0.9938927565235645
-  brandStrength: 0.2801446837838739
-  rhythmicContrast: 0.7026315780822188
+  saturation: 0.10926197865046561
+  brandStrength: 0.8911774614825845
+  rhythmicContrast: 0.8380746482871473
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
-  lightness: 0.0877516430336982
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  lightness: 0.02817392465658486
 collections:
   - index:
       path: /
@@ -22,5 +22,6 @@ collections:
       format: rss
       number: 10
 layout_spectrum: 0.00825497042387724
-typography_spectrum: 0.5103290872648358
+typography_spectrum: 0.5643449628259987
 name: Webb and Co.
+title: Furniture for Life
