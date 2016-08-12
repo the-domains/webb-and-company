@@ -14,7 +14,7 @@ collections:
 color:
   saturation: 0.6303184
   brandStrength: 0.2937501231208444
-  lightness: 0.415683
+  lightness: 0.3591906
   brandColors:
     - '#B0CC99'
     - '#677E52'
@@ -23,5 +23,5 @@ color:
     - '#89725B'
   rhythmicContrast: 0.5627292
 typography_spectrum: 0.1453634
-layout_spectrum: 0.8819562
+layout_spectrum: 0.5193929
 name: Webb and Co.
