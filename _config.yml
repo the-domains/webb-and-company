@@ -12,16 +12,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.6303184067364782
+  saturation: 0.6303184
   brandStrength: 0.2937501231208444
-  rhythmicContrast: 0.5627291719429195
+  lightness: 1
   brandColors:
     - '#B0CC99'
     - '#677E52'
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
-  lightness: 0.2630957092624158
+  rhythmicContrast: 0.5627292
 typography_spectrum: 0.1453634
 layout_spectrum: 0.8819562
 name: Webb and Co.
