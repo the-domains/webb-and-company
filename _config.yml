@@ -12,10 +12,6 @@ color:
   rhythmicContrast: 0.5627292
 layout_spectrum: 0.5193929
 name: Webb and Co.
-navigation:
-  - name: Cool Stuff
-    id: a96cdae1-f242-460b-8c2d-e9d1ec05fe7b
-    type: content
 collections:
   - index:
       path: /
