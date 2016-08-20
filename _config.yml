@@ -1,16 +1,16 @@
-typography_spectrum: 0.1453634
+layout_spectrum: 0.3572095395065844
+typography_spectrum: 0.6546114173252136
 color:
-  saturation: 0.6303184
-  brandStrength: 0.2937501231208444
-  lightness: 0.3591906
+  saturation: 0.3068181942217052
+  brandStrength: 0.5732469772920012
+  lightness: 0.7367257105652243
   brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  rhythmicContrast: 0.5627292
-layout_spectrum: 0.5193929
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+  rhythmicContrast: 0.9594392427243292
 name: Webb and Co.
 collections:
   - index:
