@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-08-19T23:26:21.832Z'
+sourcePath: _posts/2016-08-19-humble-beginnings-dating-country-and-primitive-furniture.md
+author: []
+via: {}
+dateModified: '2016-08-19T23:26:21.438Z'
+title: Humble Beginnings - Dating Country and Primitive Furniture
+publisher: {}
 description: >-
   Have you ever tried to pinpoint the construction date of a country cupboard?
   The stylistic techniques used to date formal furniture such as Chippendale and
@@ -8,14 +15,7 @@ description: >-
   cut out feet, raised panels and they painted their cupboards in bright
   colours. The puritan New England cabinetmakers built simple unadorned
   cupboards painted in drab colours.
-dateModified: '2016-08-19T23:12:10.340Z'
-datePublished: '2016-08-19T23:13:00.211Z'
-title: Humble Beginnings - Dating Country and Primitive Furniture
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: _posts/2016-08-19-humble-beginnings-dating-country-and-primitive-furniture.md
 inFeed: true
 hasPage: false
 inNav: false
