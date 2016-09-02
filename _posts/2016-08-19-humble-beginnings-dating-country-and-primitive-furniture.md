@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-30T19:27:47.216Z'
+datePublished: '2016-08-30T19:35:37.893Z'
 sourcePath: _posts/2016-08-19-humble-beginnings-dating-country-and-primitive-furniture.md
 author: []
 via: {}
-dateModified: '2016-08-30T19:27:46.804Z'
+dateModified: '2016-08-30T19:35:36.524Z'
 title: Humble Beginnings - Dating Country and Primitive Furniture
 publisher: {}
 description: >-
@@ -15,11 +15,10 @@ description: >-
   cut out feet, raised panels and they painted their cupboards in bright
   colours. The puritan New England cabinetmakers built simple unadorned
   cupboards painted in drab colours.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: humble-beginnings-dating-country-and-primitive-furniture/index.html
+_type: Blurb
 
 ---
 # Humble Beginnings - Dating Country and Primitive Furniture
