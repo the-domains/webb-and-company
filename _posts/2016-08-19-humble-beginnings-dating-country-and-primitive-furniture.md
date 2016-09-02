@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-19T23:41:33.081Z'
+datePublished: '2016-08-30T19:17:08.421Z'
 sourcePath: _posts/2016-08-19-humble-beginnings-dating-country-and-primitive-furniture.md
 author: []
 via: {}
-dateModified: '2016-08-19T23:41:32.435Z'
+dateModified: '2016-08-30T19:17:07.863Z'
 title: Humble Beginnings - Dating Country and Primitive Furniture
 publisher: {}
 description: >-
