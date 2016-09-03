@@ -1,4 +1,3 @@
-layout_spectrum: 0.5112782
 typography_spectrum: 0.29374154284596443
 color:
   saturation: 0.12499732174910605
@@ -11,7 +10,12 @@ color:
     - '#ACCFCC'
     - '#8A0917'
   rhythmicContrast: 0.6571753080934286
+layout_spectrum: 0.5112782
 name: Webb and Co.
+navigation:
+  - name: Humble Beginnings
+    id: 79dc49e7-be6e-4a3e-b2d3-ae6d51daafa0
+    type: content
 collections:
   - index:
       path: /
