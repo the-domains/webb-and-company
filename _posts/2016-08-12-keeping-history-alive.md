@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-31T21:14:34.762Z'
+datePublished: '2016-08-31T21:22:12.320Z'
 sourcePath: _posts/2016-08-12-keeping-history-alive.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T20:50:57.980Z'
+dateModified: '2016-08-31T21:22:11.989Z'
 title: Keeping history alive
 publisher: {}
 description: '1927 Remington portable typewriter '
